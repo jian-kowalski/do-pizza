@@ -1,7 +1,7 @@
 
 Exercicio que desenvolvi, para estudo de orientação a objetos no Bootcamp da @Viasoft.  
 
-# Requisito: 
+# Requisitos: 
 
 Crie uma aplicação console onde o usuário pode criar uma pizza, e ao finalizar permita ao usuário visualizar o seu pedido. 
 O que ele pode selecionar: 
